@@ -1,0 +1,142 @@
+{
+  "mode": "Built-in ImageGen",
+  "notice": "AI-enhanced demonstration images may alter fine details. Missing product photos were not fabricated.",
+  "jobs": [
+    {
+      "id": "figure-tactical",
+      "file": "products/figure-tactical.webp",
+      "prompt": "Use case: lighting-weather. Edit target: the supplied photograph of a collectible painted plastic anime figure. Create a clean, high resolution catalog restoration of the SAME physical collectible, full figure AND round black display base fully visible with comfortable margin, on a softly lit warm-white studio background. Remove distracting store background, correct white balance, reduce noise and improve edge clarity. Preserve exact sculpt, facial design, black hair, green eyes, dark grey outfit, pose, held accessory, proportions, colors and all physical parts. This is a toy product photograph, not a human. Do not redesign or add details, do not create new packaging or text. Keep a realistic physical PVC/resin appearance, restrained shadow. Portrait 4:5."
+    },
+    {
+      "id": "figure-swordswoman",
+      "file": "products/figure-swordswoman.webp",
+      "prompt": "Use case: lighting-weather. Edit target: supplied photograph of a physical collectible anime swordswoman figure from rear three-quarter view. Restore this exact product photo for a catalog: improve clarity, white balance and exposure, replace mall background with soft warm-white studio background and gentle shadow. Keep the SAME camera viewpoint, exact pose, dark hair, long red cords, white flowing clothes, reddish belt, rocky base, sword and its length, all sculpt and paint details. Full figure, sword and base must all fit within frame. Do not invent the unseen front face, do not rotate the figure, do not redesign or add accessories. Preserve physical toy/resin appearance. Portrait 4:5."
+    },
+    {
+      "id": "akashi",
+      "file": "products/akashi.webp",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied low-resolution product crop of a chibi Akashi Seijuro basketball collectible. Faithfully restore sharpness and reduce compression; clean white studio background and gentle grounding shadow. Preserve exactly the same sculpt and frontal pose, red spiky hair, red eyes, white and turquoise basketball uniform with black number 4, orange basketball at left, red oval base. Full product fits with margin. Do not redesign, change proportions, invent packaging, add logos or other characters. Portrait catalog image."
+    },
+    {
+      "id": "logo",
+      "file": "anime-logo.webp",
+      "prompt": "Use case: precise-object-edit. Edit target: provided store logo. Faithful high-resolution restoration, crisp clean edges on pure white, same composition: vivid red circle, two black grey cat ears, cobalt blue Japanese castle, exact Cyrillic name «ДВОРЕЦ АНИМЕ» in tall red lettering underneath. Preserve identity, relative layout, colors, letter shapes, castle construction and ear shape. No new symbols, no extra words, no added effects or mockup. Square image with generous white margins around the complete logo."
+    },
+    {
+      "id": "lens-brown",
+      "file": "products/lens-brown.webp",
+      "prompt": "Use case: precise-object-edit. Edit target: small catalog photo of a PAIR of decorative lens products. Faithful higher-resolution restoration on clean white background, centered two identical brown circular printed lenses side by side. Preserve exact black rim, brown starburst pattern, white centers, material appearance, count two, shape and colors. Reduce compression and sharpen without inventing a new pattern. No eyes or faces, no packaging, no text. Square catalog image, pair occupies central 65%."
+    },
+    {
+      "id": "lens-purple",
+      "file": "products/lens-purple.webp",
+      "prompt": "Use case: precise-object-edit. Edit target: small catalog photo of a PAIR of decorative lens products. Faithful higher-resolution restoration on clean white background, centered two identical purple circular printed lenses side by side. Preserve exact black rim, pale purple floral radial pattern, white centers, count two, shape and colors. Reduce compression and sharpen without inventing a new pattern. No eyes or faces, no packaging, no text. Square catalog image, pair occupies central 65%."
+    },
+    {
+      "id": "kamisama-8",
+      "file": "products/kamisama-8.webp",
+      "prompt": "Use case: precise-object-edit. Edit target: the supplied manga cover crop. Faithfully restore this EXACT cover as a flat front-facing rectangle at high resolution. Improve compression artifacts and local edge clarity. Preserve every character, illustration, position, background color, typography, title, author lettering, volume number and small printed store logo as seen. Do not redesign, translate, replace, add or remove content. Remove only the white outlined bookmark UI icon at the upper right, reconstruct the local cover behind it. Do not introduce a 3D book perspective or extra page edges. Whole rectangular cover fully visible with a narrow plain warm-white margin."
+    },
+    {
+      "id": "death-note-4",
+      "file": "products/death-note-4.webp",
+      "prompt": "Use case: precise-object-edit. Edit target: the supplied manga cover crop. Faithfully restore this EXACT cover as a flat front-facing rectangle at high resolution. Improve compression artifacts and local edge clarity. Preserve every character, illustration, position, background color, typography, title, author lettering, volume number and small printed store logo as seen. Do not redesign, translate, replace, add or remove content. Remove only the white outlined bookmark UI icon at the upper right, reconstruct the local cover behind it. Do not introduce a 3D book perspective or extra page edges. Whole rectangular cover fully visible with a narrow plain warm-white margin."
+    },
+    {
+      "id": "fairy-tail-8",
+      "file": "products/fairy-tail-8.webp",
+      "prompt": "Use case: precise-object-edit. Edit target: the supplied manga cover crop. Faithfully restore this EXACT cover as a flat front-facing rectangle at high resolution. Improve compression artifacts and local edge clarity. Preserve every character, illustration, position, background color, typography, title, author lettering, volume number and small printed store logo as seen. Do not redesign, translate, replace, add or remove content. Remove only the white outlined bookmark UI icon at the upper right, reconstruct the local cover behind it. Do not introduce a 3D book perspective or extra page edges. Whole rectangular cover fully visible with a narrow plain warm-white margin."
+    },
+    {
+      "id": "fairy-tail-6",
+      "file": "products/fairy-tail-6.webp",
+      "prompt": "Use case: precise-object-edit. Edit target: the supplied manga cover crop. Faithfully restore this EXACT cover as a flat front-facing rectangle at high resolution. Improve compression artifacts and local edge clarity. Preserve every character, illustration, position, background color, typography, title, author lettering, volume number and small printed store logo as seen. Do not redesign, translate, replace, add or remove content. Remove only the white outlined bookmark UI icon at the upper right, reconstruct the local cover behind it. Do not introduce a 3D book perspective or extra page edges. Whole rectangular cover fully visible with a narrow plain warm-white margin."
+    }
+  ],
+  "hero": {
+    "file": "anime-hero.webp",
+    "prompt": "Use case: ads-marketing. Landscape editorial anime illustration for the Russian manga and collectibles shop «Дворец Аниме». An evocative small Tokyo-inspired neighborhood bookshop at dusk with cream paper shelves of colorful unlettered manga spines, display cabinets containing miniature anime collectible figures in varied poses, a subtle red lantern and a cobalt-blue evening sky outside. Premium hand-drawn anime background art, fine ink outlines, warm ivory light, cinnabar red and deep indigo accents, gentle hand-painted texture, sophisticated composition, no generic neon cyberpunk. No people, no legible lettering, no logos, no prices. Cozy discovery and collecting mood. Landscape 3:2, image will be beside an HTML headline so no text inside. Fictional artistic illustration, not the actual Moscow store."
+  },
+  "sources": [
+    {
+      "id": "lens-brown",
+      "source": "fcf165d4-fd51-4446-a5a8-0da0e0f66b47.jpg",
+      "crop": {
+        "left": 52,
+        "top": 385,
+        "width": 205,
+        "height": 114
+      }
+    },
+    {
+      "id": "lens-purple",
+      "source": "fcf165d4-fd51-4446-a5a8-0da0e0f66b47.jpg",
+      "crop": {
+        "left": 333,
+        "top": 827,
+        "width": 213,
+        "height": 123
+      }
+    },
+    {
+      "id": "kamisama-8",
+      "source": "2136272b-00db-46a0-a2ba-6dc3cf1a7e11.jpg",
+      "crop": {
+        "left": 303,
+        "top": 699,
+        "width": 270,
+        "height": 318
+      }
+    },
+    {
+      "id": "death-note-4",
+      "source": "c8787c13-a521-4d91-8402-6374ae979254.jpg",
+      "crop": {
+        "left": 303,
+        "top": 735,
+        "width": 270,
+        "height": 324
+      }
+    },
+    {
+      "id": "fairy-tail-8",
+      "source": "025d314b-75e3-41ed-bc62-98982899b26a.jpg",
+      "crop": {
+        "left": 17,
+        "top": 223,
+        "width": 270,
+        "height": 323
+      }
+    },
+    {
+      "id": "fairy-tail-6",
+      "source": "025d314b-75e3-41ed-bc62-98982899b26a.jpg",
+      "crop": {
+        "left": 17,
+        "top": 670,
+        "width": 270,
+        "height": 323
+      }
+    },
+    {
+      "id": "akashi",
+      "source": "357e3d1e-ed33-4933-bd9e-2a38eab8e38b.jpg",
+      "crop": {
+        "left": 164,
+        "top": 361,
+        "width": 218,
+        "height": 283
+      }
+    },
+    {
+      "id": "logo",
+      "source": "9b9c57b8-4003-416f-b3c5-a90a4c9b3daa.jpg",
+      "crop": {
+        "left": 32,
+        "top": 18,
+        "width": 252,
+        "height": 195
+      }
+    }
+  ]
+}

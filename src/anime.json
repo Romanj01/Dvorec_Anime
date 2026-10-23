@@ -1,0 +1,99 @@
+{
+  "name": "Дворец Аниме",
+  "city": "Москва",
+  "address": "Щёлковское шоссе, 3, стр. 1",
+  "location": "Корпус А · этаж 2",
+  "vk": "https://vk.com/anime_d_shop",
+  "messages": "https://vk.me/anime_d_shop",
+  "map": "https://yandex.com/maps/org/dvorets_anime/1227402002/",
+  "phone": "+7 (991) 225-43-68",
+  "settings": {
+    "name": "Дворец Аниме",
+    "tagline": "Твои любимые миры — ближе.",
+    "heroTitle": "У каждой истории\nесть своя полка.",
+    "heroText": "Манга, фигурки и немного магии для твоего образа. Найди то, что хочется забрать в свой мир.",
+    "primary": "#22223b",
+    "secondary": "#fbf7f1",
+    "buttonColor": "#d93b47",
+    "logo": "/assets/anime-logo.webp",
+    "favicon": "/assets/anime-favicon.svg",
+    "banner": "/assets/anime-hero.webp",
+    "leftLabel": "ТВОЙ ПРОПУСК В ДРУГОЙ МИР",
+    "leftEnabled": true,
+    "rightLabel": "ДВОРЕЦ АНИМЕ · МОСКВА",
+    "rightEnabled": true,
+    "cardLabel": "",
+    "cardEnabled": false,
+    "demoCatalog": true,
+    "telegram": "",
+    "socials": "https://vk.com/anime_d_shop",
+    "reserveMinutes": 30,
+    "sbpEnabled": false,
+    "sbpBank": "Демонстрация",
+    "sbpRecipient": "Пример магазина",
+    "sbpDetails": "Учебные реквизиты — реальные деньги не переводятся",
+    "sbpInstructions": "Оплата в этом демо не выполняется.",
+    "sbpLink": "",
+    "sellerName": "Дворец Аниме · демонстрационный сайт",
+    "sellerInn": "",
+    "legalText": "Демонстрационный сайт «Дворца Аниме». Фактические наличие, издание, комплектацию и условия получения уточняйте у магазина. Изображения обработаны ИИ; исходные фотографии доступны в галереях. Заказы, остатки и финансовые показатели используются для знакомства с возможностями магазина."
+  },
+  "categories": [
+    {
+      "id": "figures",
+      "slug": "figures",
+      "name": "Фигурки",
+      "parentId": null,
+      "description": "Персонажи, которые остаются рядом",
+      "image": "/assets/products/figure-swordswoman.webp"
+    },
+    {
+      "id": "manga",
+      "slug": "manga",
+      "name": "Манга",
+      "parentId": null,
+      "description": "Ещё одна глава — и точно спать",
+      "image": "/assets/products/fairy-tail-8.webp"
+    },
+    {
+      "id": "cosplay",
+      "slug": "cosplay",
+      "name": "Косплей и линзы",
+      "parentId": null,
+      "description": "Маленькая деталь большого перевоплощения",
+      "image": "/assets/products/lens-purple.webp"
+    },
+    {
+      "id": "chibi",
+      "slug": "chibi",
+      "name": "Чиби-фигурки",
+      "parentId": "figures",
+      "description": "Большие эмоции в маленьком формате",
+      "image": "/assets/products/akashi.webp"
+    },
+    {
+      "id": "death-note",
+      "slug": "death-note",
+      "name": "Тетрадь смерти",
+      "parentId": "manga",
+      "description": "Четвёртый том из каталога магазина",
+      "image": "/assets/products/death-note-4.webp"
+    },
+    {
+      "id": "fairy-tail",
+      "slug": "fairy-tail",
+      "name": "Хвост феи",
+      "parentId": "manga",
+      "description": "Тома 6 и 8 из каталога магазина",
+      "image": "/assets/products/fairy-tail-8.webp"
+    },
+    {
+      "id": "kamisama",
+      "slug": "kamisama",
+      "name": "Очень приятно, Бог",
+      "parentId": "manga",
+      "description": "Восьмой том из каталога магазина",
+      "image": "/assets/products/kamisama-8.webp"
+    }
+  ]
+}
